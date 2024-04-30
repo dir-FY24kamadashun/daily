@@ -43,6 +43,7 @@ import lombok.Setter;
 @AllArgsConstructor //全てのクラスフィールドを引数にもつ引数ありコンストラクタを自動生成する(Lombok)
 @Entity
 public class Employee {
+    
 
     /**
      * id
